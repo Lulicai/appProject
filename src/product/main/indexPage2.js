@@ -1,6 +1,4 @@
-/**
- * Created by 18865520462 on 2017/1/4.
- */
+
 import "../styles/index.css"
 import "../styles/swiper-3.3.1.min.css"
 import {Header,Footer,Content,SubHeader} from  "../../common/components/common"

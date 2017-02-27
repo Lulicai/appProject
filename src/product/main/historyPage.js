@@ -1,6 +1,4 @@
-/**
- * Created by 18865520462 on 2017/1/6.
- */
+
 
 import {Header,Footer,Content,SubHeader} from  "../../common/components/common"
 import React, {Component} from  "react"

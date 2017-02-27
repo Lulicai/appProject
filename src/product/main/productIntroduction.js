@@ -1,6 +1,4 @@
-/**
- * Created by 18865520462 on 2017/1/5.
- */
+
 import "../styles/introduction.css"
 
 import {Header,Footer,Content,SubHeader} from  "../../common/components/common"

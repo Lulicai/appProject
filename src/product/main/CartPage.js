@@ -1,6 +1,4 @@
-/**
- * Created by lhsh on 2017/1/5.
- */
+
 import {Header,Content,SubHeader,Footer} from "../../common/components/common"
 import {Tools} from "../../common/tools/tools"
 import React,{Component} from "react"

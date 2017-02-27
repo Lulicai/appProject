@@ -1,6 +1,4 @@
-/**
- * Created by hasee on 2017/1/4.
- */
+
 import {Header,Content,SubHeader,Footer} from "../../common/components/common"
 import {ProductInfo} from "../components/productInfo"
 import React,{Component} from "react"

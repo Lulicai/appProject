@@ -1,6 +1,4 @@
-/**
- * Created by lhsh on 2017/1/7.
- */
+
 import React,{Component} from "react"
 import {Header,SubHeader,Content} from "../../common/components/common"
 import {OrderProductInfo} from "../components/order-list"

@@ -1,6 +1,4 @@
-/**
- * Created by hasee on 2016/12/30.
- */
+
 import "../styles/list.css"
 import React,{Component} from "react"
 
