@@ -1,0 +1,60 @@
+.my-wrap{
+    padding:0 10px;
+    overflow: hidden;
+}
+.my-img{
+    width:100%;
+    padding:50px 0;
+    overflow: hidden;
+    display: flex;
+}
+.my-pic{
+    width:80px;
+    height:80px;
+    background: cornflowerblue;
+    float: left;
+    margin-left: 20px;
+    border-radius: 5px;
+}
+.my-msg{
+    float: left;
+    height:80px;
+    margin-left: 10px;
+    font-size: 14px;
+    font-family: "微软雅黑";
+    flex:1;
+    padding: 15px 0;
+}
+.my-msg p{
+    margin-bottom: 5px;
+}
+.my-rem{
+    height:200px;
+    width:100%;
+    border:1px solid #ccc;
+    margin-top: 1rem;
+    border-radius: 5px;
+    background: white;
+}
+.my-rem a{
+    display: block;
+    color: #333;
+    text-decoration: none;
+    font-family: "微软雅黑";
+}
+.my-rem li{
+    width:100%;
+    height:50px;
+    line-height: 50px;
+    padding:0 10px;
+    border-bottom:1px solid #ccc;
+}
+.my-rem a:nth-child(4) li{
+   border-bottom: none;
+}
+.my-rem li p{
+    float: left;
+}
+.my-rem li span{
+    float: right;
+}

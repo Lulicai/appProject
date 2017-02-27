@@ -1,0 +1,56 @@
+
+.address{
+	width: 100%;
+	height: 30px;
+	padding-left: 10px;
+	border: 1px solid gainsboro;
+	font-family: "微软雅黑";
+	font-size: 14px;
+	line-height: 30px;
+	}
+
+#order-price{
+	width:100%;
+	height: 40px;
+	border:1px solid #DCDCDC;
+	font-family: "微软雅黑";
+	font-size: 12px;
+}
+textarea{
+	width: 100%;
+}
+.account-price{
+	width: 100%;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	height: 40px;
+	background: lightyellow;
+	font-family: "微软雅黑";
+	font-size: 12px;
+}
+.all-price{
+	float: left;
+	width: 80%;
+	height: 40px;
+	text-align: center;
+	line-height: 40px;
+}
+.all-price p{
+	float: left;
+	display: inline-block;
+	padding-left: 10px;
+}
+.check-price{
+	float: left;
+	width: 20%;
+	height: 40px;
+	line-height: 40px;
+}
+.check-price button{
+	width: 60px;
+	height: 30px;
+	outline: none;
+	border: none;
+	background: darkred;
+}

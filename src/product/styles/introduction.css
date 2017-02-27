@@ -1,0 +1,20 @@
+#introduction-page .intro-img{
+    width:100%;
+    height:250px;
+    padding:0 10px 0;
+    text-align: center;
+}
+#introduction-page .intro-img img{
+    width:100%;
+    height:100%;
+}
+.intro-dec{
+    width:100%;
+    padding:0 10px 0;
+}
+#introduction-page .intro-dec li{
+    line-height:24px;
+    font-size: 14px;
+    color:black;
+
+}

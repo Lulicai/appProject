@@ -1,0 +1,103 @@
+
+.detail-footer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%; }
+
+#detail-page .content {
+  bottom: 0px; }
+
+#detail-page .much {
+  padding: 0.16rem 0.22rem;
+  border-radius: 5px;
+  box-shadow: 1px 1px 2px #7a0607; }
+
+.swiper-container {
+  position: relative;
+  width:120vw;
+  margin-left: -10vw;
+  overflow-x: hidden;
+}
+  .swiper-container img {
+    width: 40vw;
+    height: 60vw;
+
+  }
+
+.swiper-btns {
+  height: 30px;
+  padding: 5px 0;
+  text-align: center; }
+  .swiper-btns ul {
+    display: inline-block;
+    height: 20px;
+    padding: 4px 10px;
+    background-color: #bcbcbc;
+    border-radius: 10px; }
+    .swiper-btns ul .swiper-pagination-bullet {
+      display: inline-block;
+      background-color: #959595;
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      margin: 0 3px; }
+    .swiper-btns ul .swiper-pagination-bullet-active {
+      background-color: #fff; }
+  .swiper-btns .active {
+    background-color: #fff; }
+
+.pro-info {
+  padding: 0 0.28rem;
+  font-size: 15px;
+  line-height: 25px; }
+  .pro-info .pro-price {
+    line-height: 30px; }
+    .pro-info .pro-price em {
+      color: #b90a55; }
+    .pro-info .pro-price del {
+      margin-left: 15px; }
+  .pro-info .pro-num {
+    line-height: 30px; }
+
+.detail-footer {
+  top: auto;
+  bottom: 0;
+  height: 96px; }
+  .detail-footer .look-wrap {
+    height: 48px;
+    background-color: #fff;
+    padding: 0.32rem 0.24rem; }
+    .detail-footer .look-wrap .xiao {
+      width: 18px;
+      height: 18px; }
+    .detail-footer .look-wrap .right {
+      display: inline-block;
+      margin-left: 3rem;
+      font-size: 16px;
+      font-weight: bold; }
+    .detail-footer .look-wrap a {
+      margin-left: 0.2rem;
+      font-size: 16px;
+      color: #3a3a3a; }
+  .detail-footer .add-wrap {
+    height: 48px;
+    background-color: #a3a3a3;
+    padding: 4px 1rem; }
+  .detail-footer .add-cart {
+    color: #fff;
+    width: 100%;
+    display: block;
+    font-size: 16px;
+    text-align: center;
+    border-radius: 4px;
+    letter-spacing: 5px;
+    height: 40px;
+    line-height: 38px;
+    box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3), inset 0 0 1px rgba(255, 255, 255, 0.3);
+    background: #e22;
+    /* Old browsers */
+    background: -webkit-linear-gradient(top, #e22 0%, #b11 100%);
+    /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #e22 0%, #b11 100%);
+    /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */ }

@@ -1,0 +1,26 @@
+.sigleData {
+    width: 100%;
+    border-bottom: 1px solid #999999;
+    display: flex;
+    font-family: "微软雅黑";
+    font-size: 14px;
+    padding:5px 0;
+}
+.sigleData img{
+    width: 80px;
+    height: 80px;
+}
+.sigleData .text-info{
+    flex:1;
+    padding-top: 5px;
+    height: 70px;
+}
+.price-number{
+    width: 60px;
+    height: 70px;
+    font-size: 12px;
+    padding-top: 5px;
+}
+.price-info{
+    margin-bottom: 5px;
+}
