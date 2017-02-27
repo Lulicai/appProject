@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 
+=======
+/**
+ * Created by lilycai on 2017/1/4.
+ */
+>>>>>>> 5db3873f4209e1142f361643942aa49ba4d6a95c
 import "../styles/index.css"
 import "../styles/swiper-3.3.1.min.css"
 import {Header,Footer,Content,SubHeader} from  "../../common/components/common"

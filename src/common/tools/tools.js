@@ -1,6 +1,4 @@
-/**
- * Created by Administrator on 2017/1/5.
- */
+
 let Tools = {
     getUserId:function(){
         let id = sessionStorage.getItem('userID') || localStorage.getItem('userID');
